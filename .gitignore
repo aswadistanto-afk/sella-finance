@@ -1,0 +1,14 @@
+# Local test artifacts & profiles
+chrome_profile/
+*.png
+debug_*.py
+inspect_*.py
+check_*.js
+test_*.js
+clean_doget.py
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
